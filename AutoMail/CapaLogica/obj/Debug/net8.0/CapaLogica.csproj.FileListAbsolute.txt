@@ -1,0 +1,107 @@
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.deps.json
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.dll
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.pdb
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfoInputs.cache
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfo.cs
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.Up2Date
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.dll
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\obj\Debug\net8.0\refint\CapaLogica.dll
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.pdb
+C:\Users\Vale\source\repos\AutoMail\CapaLogica\obj\Debug\net8.0\ref\CapaLogica.dll
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.deps.json
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.dll
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.pdb
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfoInputs.cache
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfo.cs
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.sourcelink.json
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.Up2Date
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.dll
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\obj\Debug\net8.0\refint\CapaLogica.dll
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.pdb
+C:\Users\Vale\Documents\GASTROMADRID\AutoMail\CapaLogica\obj\Debug\net8.0\ref\CapaLogica.dll
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.deps.json
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.dll
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.pdb
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfoInputs.cache
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfo.cs
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.sourcelink.json
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.Up2Date
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.dll
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\refint\CapaLogica.dll
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.pdb
+C:\Users\adria\Source\Repos\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\ref\CapaLogica.dll
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.deps.json
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.dll
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.pdb
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfoInputs.cache
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfo.cs
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.sourcelink.json
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.Up2Date
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.dll
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\refint\CapaLogica.dll
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.pdb
+C:\Users\GRLL\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\ref\CapaLogica.dll
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.deps.json
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.dll
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.pdb
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.sourcelink.json
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.Up2Date
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.dll
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\refint\CapaLogica.dll
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.pdb
+C:\Users\adria\OneDrive\Escritorio\Gastropro\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\ref\CapaLogica.dll
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.deps.json
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.dll
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.pdb
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfoInputs.cache
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfo.cs
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.sourcelink.json
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.Up2Date
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.dll
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\refint\CapaLogica.dll
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.pdb
+C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaLogica\obj\Debug\net8.0\ref\CapaLogica.dll

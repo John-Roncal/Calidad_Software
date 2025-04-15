@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\automail\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\automail\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\capadatos\\datapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D45353-6B27-4ED5-93C2-6EF52153722D}|CapaLogica\\CapaLogica.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\capalogica\\logapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D45353-6B27-4ED5-93C2-6EF52153722D}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\automail\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\automail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E800AF5B-E7C3-4F76-90AF-CCC6C85B7D4E}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\capaentidad\\entcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E800AF5B-E7C3-4F76-90AF-CCC6C85B7D4E}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E800AF5B-E7C3-4F76-90AF-CCC6C85B7D4E}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\capaentidad\\entapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E800AF5B-E7C3-4F76-90AF-CCC6C85B7D4E}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\capadatos\\datcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E800AF5B-E7C3-4F76-90AF-CCC6C85B7D4E}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\capaentidad\\entcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E800AF5B-E7C3-4F76-90AF-CCC6C85B7D4E}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\capadatos\\datcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\automail\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\automail\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E800AF5B-E7C3-4F76-90AF-CCC6C85B7D4E}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\capaentidad\\entprovincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E800AF5B-E7C3-4F76-90AF-CCC6C85B7D4E}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entprovincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D45353-6B27-4ED5-93C2-6EF52153722D}|CapaLogica\\CapaLogica.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\capalogica\\logprovincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D45353-6B27-4ED5-93C2-6EF52153722D}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logprovincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D45353-6B27-4ED5-93C2-6EF52153722D}|CapaLogica\\CapaLogica.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\capalogica\\logcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D45353-6B27-4ED5-93C2-6EF52153722D}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D45353-6B27-4ED5-93C2-6EF52153722D}|CapaLogica\\CapaLogica.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\capalogica\\logcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D45353-6B27-4ED5-93C2-6EF52153722D}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\automail\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\john roncal\\desktop\\gastromadrid\\automail\\automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnviarCorreo.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\EnviarCorreo.cs",
+              "RelativeDocumentMoniker": "AutoMail\\EnviarCorreo.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\EnviarCorreo.cs",
+              "RelativeToolTip": "AutoMail\\EnviarCorreo.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwFoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:35:55.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "logAPI.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaLogica\\logAPI.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\logAPI.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaLogica\\logAPI.cs",
+              "RelativeToolTip": "CapaLogica\\logAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:12:14.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Menu.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Menu.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AutoMail\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:55:58.611Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "datAPI.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaDatos\\datAPI.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\datAPI.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaDatos\\datAPI.cs",
+              "RelativeToolTip": "CapaDatos\\datAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:11:35.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Program.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Program.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Program.cs",
+              "RelativeToolTip": "AutoMail\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:25:57.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Categoria.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Categoria.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Categoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AutoMail\\Categoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:09:50.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnviarCorreo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\EnviarCorreo.cs",
+              "RelativeDocumentMoniker": "AutoMail\\EnviarCorreo.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\EnviarCorreo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AutoMail\\EnviarCorreo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:05:31.144Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "entCliente.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\entCliente.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\entCliente.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\entCliente.cs",
+              "RelativeToolTip": "CapaEntidad\\entCliente.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:21:08.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "entAPI.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\entAPI.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\entAPI.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\entAPI.cs",
+              "RelativeToolTip": "CapaEntidad\\entAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:12:02.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "entCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\entCategoria.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\entCategoria.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\entCategoria.cs",
+              "RelativeToolTip": "CapaEntidad\\entCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:51:20.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "datCliente.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaDatos\\datCliente.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\datCliente.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaDatos\\datCliente.cs",
+              "RelativeToolTip": "CapaDatos\\datCliente.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAgwJEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:24:21.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "datCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaDatos\\datCategoria.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\datCategoria.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaDatos\\datCategoria.cs",
+              "RelativeToolTip": "CapaDatos\\datCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:23:18.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Provincia.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Provincia.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Provincia.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Provincia.cs",
+              "RelativeToolTip": "AutoMail\\Provincia.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAkwHMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:53:27.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Provincia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Provincia.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Provincia.cs",
+              "ToolTip": "C:\\Users\\GRLL\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Provincia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\GRLL\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Provincia.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:56:10.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:42:22.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "logProvincia.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaLogica\\logProvincia.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\logProvincia.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaLogica\\logProvincia.cs",
+              "RelativeToolTip": "CapaLogica\\logProvincia.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:14:03.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "entProvincia.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\entProvincia.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\entProvincia.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\entProvincia.cs",
+              "RelativeToolTip": "CapaEntidad\\entProvincia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:25:02.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "logCliente.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaLogica\\logCliente.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\logCliente.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaLogica\\logCliente.cs",
+              "RelativeToolTip": "CapaLogica\\logCliente.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:31:44.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "logCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaLogica\\logCategoria.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\logCategoria.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaLogica\\logCategoria.cs",
+              "RelativeToolTip": "CapaLogica\\logCategoria.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAxwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:04:27.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Categoria.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Categoria.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Categoria.cs",
+              "RelativeToolTip": "AutoMail\\Categoria.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAawGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:24:33.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Menu.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Menu.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\Menu.cs",
+              "RelativeToolTip": "AutoMail\\Menu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:41:54.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
