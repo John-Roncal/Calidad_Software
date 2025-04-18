@@ -436,10 +436,7 @@
       "System.Threading.Tasks.Extensions/4.5.4": {},
       "CapaEntidad/1.0.0": {
         "runtime": {
-          "CapaEntidad.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "CapaEntidad.dll": {}
         }
       }
     }

@@ -93,3 +93,19 @@ C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaDatos\obj\Debug\net8.0\Ca
 C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
 C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
 C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\obj\Debug\net8.0\CapaDatos.sourcelink.json
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.Up2Date
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll

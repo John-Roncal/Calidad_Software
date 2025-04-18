@@ -69,3 +69,15 @@ C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaEntidad\obj\Debug\net8.0\
 C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaEntidad\obj\Debug\net8.0\refint\CapaEntidad.dll
 C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.pdb
 C:\Users\John Roncal\Desktop\GastroMadrid\AutoMail\CapaEntidad\obj\Debug\net8.0\ref\CapaEntidad.dll
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\bin\Debug\net8.0\CapaEntidad.deps.json
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.sourcelink.json
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.dll
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\refint\CapaEntidad.dll
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.pdb
+C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\ref\CapaEntidad.dll

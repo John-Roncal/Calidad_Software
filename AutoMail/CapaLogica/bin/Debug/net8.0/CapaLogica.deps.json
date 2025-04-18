@@ -440,18 +440,12 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "CapaDatos.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "CapaDatos.dll": {}
         }
       },
       "CapaEntidad/1.0.0": {
         "runtime": {
-          "CapaEntidad.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "CapaEntidad.dll": {}
         }
       }
     }

@@ -33,6 +33,84 @@ CREATE TABLE Clientes (
 )
 GO
 
+-- Crear la tabla Rol 
+CREATE TABLE [Rol]
+(
+    [RolID] INT NOT NULL IDENTITY (1, 1),
+    [NombreRol] NVARCHAR(50) NOT NULL,
+    [EstadoRol] BIT NOT NULL,
+    CONSTRAINT PK_Rol PRIMARY KEY (RolID)
+);
+GO
+
+-- Insertar roles iniciales: Admin y Usuario
+INSERT INTO [Rol] ([NombreRol], [EstadoRol]) VALUES
+('Admin', 1),
+('Usuario', 1);
+GO
+
+-- Crear la tabla Usuario con contraseña como hash (varbinary)
+CREATE TABLE [Usuario]
+(
+    [UsuarioID] INT NOT NULL IDENTITY (1, 1),
+    [RolID] INT NOT NULL,
+    [Usuario] NVARCHAR(100) NOT NULL,
+    [Clave] VARBINARY(64) NOT NULL,  -- Contraseña encriptada con SHA-256
+    [EstadoUsuario] BIT NOT NULL,
+    CONSTRAINT PK_Usuario PRIMARY KEY (UsuarioID),
+    CONSTRAINT FK_Usuario_Rol FOREIGN KEY ([RolID]) REFERENCES [Rol]([RolID])
+);
+GO
+
+CREATE OR ALTER PROCEDURE spValidarCredenciales
+    @Nombre NVARCHAR(50),
+    @Contraseña VARBINARY(64)
+AS
+BEGIN
+    SELECT COUNT(*) 
+    FROM Usuario 
+    WHERE Usuario = @Nombre AND Clave = @Contraseña AND EstadoUsuario = 1;
+END
+GO
+
+CREATE OR ALTER PROCEDURE spObtenerUsuarioPorNombre
+    @Nombre nvarchar(100)
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    SELECT 
+        UsuarioID, 
+        RolID, -- Corregido de TipoUsuarioID a RolID
+        Usuario, 
+        Clave, 
+        EstadoUsuario -- Corregido de estUsuario a EstadoUsuario
+    FROM Usuario
+    WHERE Usuario = @Nombre;
+END
+GO
+
+INSERT INTO Usuario (RolID, Usuario, Clave, EstadoUsuario)
+VALUES (
+    1, -- ID del rol "Admin"
+    'admin123',
+    HASHBYTES('SHA2_256', CONVERT(VARBINARY(100), '123')), -- contraseña real
+    1
+);
+GO
+
+INSERT INTO Usuario (RolID, Usuario, Clave, EstadoUsuario)
+VALUES (
+    1, -- ID del rol "Admin"
+    'admin',
+    HASHBYTES('SHA2_256', CONVERT(VARBINARY(100), '123')), -- contraseña real
+    1
+);
+GO
+
+
+
+
 -- Tabla para seguimiento de contactos (registra toda interacción)
 CREATE TABLE ContactosClientes (
     Id INT PRIMARY KEY IDENTITY(1,1),

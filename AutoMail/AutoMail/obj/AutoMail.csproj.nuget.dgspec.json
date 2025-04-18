@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\AutoMail.csproj": {}
+    "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\AutoMail.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\AutoMail.csproj": {
+    "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\AutoMail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\AutoMail.csproj",
+        "projectUniqueName": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\AutoMail.csproj",
         "projectName": "AutoMail",
-        "projectPath": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\AutoMail.csproj",
-        "packagesPath": "C:\\Users\\John Roncal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\AutoMail\\obj\\",
+        "projectPath": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\AutoMail.csproj",
+        "packagesPath": "C:\\Users\\AORUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\John Roncal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AORUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaLogica\\CapaLogica.csproj": {
-                "projectPath": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaLogica\\CapaLogica.csproj"
+              "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaLogica\\CapaLogica.csproj": {
+                "projectPath": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaLogica\\CapaLogica.csproj"
               }
             }
           }
@@ -48,8 +43,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -79,25 +73,21 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaDatos\\CapaDatos.csproj": {
+    "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaDatos\\CapaDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaDatos\\CapaDatos.csproj",
+        "projectUniqueName": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaDatos\\CapaDatos.csproj",
         "projectName": "CapaDatos",
-        "projectPath": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaDatos\\CapaDatos.csproj",
-        "packagesPath": "C:\\Users\\John Roncal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaDatos\\obj\\",
+        "projectPath": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaDatos\\CapaDatos.csproj",
+        "packagesPath": "C:\\Users\\AORUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaDatos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\John Roncal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AORUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,15 +95,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {
-                "projectPath": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\CapaEntidad.csproj"
+              "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj"
               }
             }
           }
@@ -127,8 +116,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -159,25 +147,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {
+    "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\CapaEntidad.csproj",
+        "projectUniqueName": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj",
         "projectName": "CapaEntidad",
-        "projectPath": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\CapaEntidad.csproj",
-        "packagesPath": "C:\\Users\\John Roncal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\obj\\",
+        "projectPath": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj",
+        "packagesPath": "C:\\Users\\AORUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaEntidad\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\John Roncal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AORUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -185,7 +169,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -203,8 +186,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -225,25 +207,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaLogica\\CapaLogica.csproj": {
+    "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaLogica\\CapaLogica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaLogica\\CapaLogica.csproj",
+        "projectUniqueName": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaLogica\\CapaLogica.csproj",
         "projectName": "CapaLogica",
-        "projectPath": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaLogica\\CapaLogica.csproj",
-        "packagesPath": "C:\\Users\\John Roncal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaLogica\\obj\\",
+        "projectPath": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaLogica\\CapaLogica.csproj",
+        "packagesPath": "C:\\Users\\AORUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaLogica\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\John Roncal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AORUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -251,18 +229,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaDatos\\CapaDatos.csproj": {
-                "projectPath": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaDatos\\CapaDatos.csproj"
+              "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaDatos\\CapaDatos.csproj": {
+                "projectPath": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaDatos\\CapaDatos.csproj"
               },
-              "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {
-                "projectPath": "C:\\Users\\John Roncal\\Desktop\\GastroMadrid\\AutoMail\\CapaEntidad\\CapaEntidad.csproj"
+              "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\AORUS\\Documents\\UPN\\CICLO 8\\CALIDAD\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj"
               }
             }
           }
@@ -276,8 +253,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -298,7 +274,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
