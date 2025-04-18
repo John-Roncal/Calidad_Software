@@ -16,44 +16,22 @@ namespace AutoMail
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            string nombreUsuario = txtUsuario.Text.Trim();
+            string nombreUsuario = txtUsuario.Text;
             string contraseña = txtClave.Text;
 
-            // Verificar si los campos están vacíos
-            if (string.IsNullOrEmpty(nombreUsuario) || string.IsNullOrEmpty(contraseña))
+            if (logUsuario.Instancia.ValidarCredenciales(nombreUsuario, contraseña))
             {
-                MessageBox.Show("Por favor ingresa nombre de usuario y contraseña.");
-                return;
-            }
+                // Obtener el ID del rol del usuario (ya no es tipoUsuarioID)
+                int rolID = logUsuario.Instancia.ObtenerRolIDPorNombre(nombreUsuario);
 
-            try
-            {
-                // Validar credenciales con hash en la lógica
-                bool esValido = logUsuario.Instancia.ValidarCredenciales(nombreUsuario, contraseña);
-
-                if (esValido)
-                {
-                    MessageBox.Show("Credenciales Correctas.");
-                    //entUsuario usuario = logUsuario.Instancia.ObtenerUsuarioPorNombre(nombreUsuario);
-                    //if (usuario != null && usuario.estUsuario) // Verifica que esté activo
-                    //{
-                    //    MAIN_Interfaz frm = new MAIN_Interfaz(usuario.TipoUsuarioID);
-                    //    this.Hide();
-                    //    frm.Show();
-                    //}
-                    //else
-                    //{
-                    //    MessageBox.Show("El usuario está deshabilitado.");
-                    //}
-                }
-                else
-                {
-                    MessageBox.Show("Credenciales incorrectas.");
-                }
+                // Pasamos el rolID al formulario principal
+                Menu frm = new Menu(rolID);
+                this.Hide();
+                frm.Show();
             }
-            catch (Exception ex)
+            else
             {
-                MessageBox.Show("Error al iniciar sesión: " + ex.Message);
+                MessageBox.Show("Credenciales incorrectas");
             }
         }
     }

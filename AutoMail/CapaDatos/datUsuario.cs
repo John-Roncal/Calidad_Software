@@ -99,5 +99,25 @@ namespace CapaDatos
             }
             return usuario;
         }
+
+        public int ObtenerRolIDPorNombre(string nombreUsuario)
+        {
+            int rolID = 0;
+            using (SqlConnection cn = Conexion.Instancia.Conectar())
+            using (SqlCommand cmd = new SqlCommand("spObtenerRolIDPorNombre", cn))
+            {
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@Nombre", nombreUsuario);
+
+                cn.Open();
+                object result = cmd.ExecuteScalar();
+
+                if (result != null && result != DBNull.Value)
+                {
+                    rolID = Convert.ToInt32(result);
+                }
+            }
+            return rolID;
+        }
     }
 }

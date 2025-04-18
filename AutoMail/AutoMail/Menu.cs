@@ -3,9 +3,22 @@ namespace AutoMail
     public partial class Menu : Form
     {
         private Form activeForm;
-        public Menu()
+        private int rolID;
+        public Menu(int rolID)
         {
             InitializeComponent();
+            this.rolID = rolID;
+            VerificarAccesoAdmin();
+        }
+
+        private void VerificarAccesoAdmin()
+        {
+            if (rolID != 1)
+            {
+                btnCat.Enabled = false;
+                btnPro.Enabled = false;
+
+            }
         }
 
         private void btnCorreo_Click(object sender, EventArgs e)

@@ -108,6 +108,27 @@ VALUES (
 );
 GO
 
+INSERT INTO Usuario (RolID, Usuario, Clave, EstadoUsuario)
+VALUES (
+    2, -- ID del rol "Admin"
+    'user',
+    HASHBYTES('SHA2_256', CONVERT(VARBINARY(100), '123')), -- contraseña real
+    1
+);
+GO
+
+CREATE OR ALTER PROCEDURE spObtenerRolIDPorNombre
+    @Nombre NVARCHAR(100)
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    SELECT RolID
+    FROM Usuario
+    WHERE Usuario = @Nombre;
+END
+GO
+
 
 
 

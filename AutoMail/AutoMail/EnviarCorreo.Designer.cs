@@ -95,7 +95,7 @@
             panel1.Dock = DockStyle.Top;
             panel1.Font = new Font("Impact", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             panel1.Location = new Point(0, 0);
-            panel1.Margin = new Padding(4, 4, 4, 4);
+            panel1.Margin = new Padding(4);
             panel1.Name = "panel1";
             panel1.Size = new Size(1215, 62);
             panel1.TabIndex = 53;
@@ -149,7 +149,7 @@
             btnEnviarCor.Font = new Font("Impact", 15F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnEnviarCor.ForeColor = Color.White;
             btnEnviarCor.Location = new Point(222, 488);
-            btnEnviarCor.Margin = new Padding(4, 4, 4, 4);
+            btnEnviarCor.Margin = new Padding(4);
             btnEnviarCor.Name = "btnEnviarCor";
             btnEnviarCor.Size = new Size(128, 35);
             btnEnviarCor.TabIndex = 56;
@@ -165,7 +165,7 @@
             btnCancelarCo.Font = new Font("Impact", 15F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnCancelarCo.ForeColor = Color.White;
             btnCancelarCo.Location = new Point(526, 488);
-            btnCancelarCo.Margin = new Padding(4, 4, 4, 4);
+            btnCancelarCo.Margin = new Padding(4);
             btnCancelarCo.Name = "btnCancelarCo";
             btnCancelarCo.Size = new Size(130, 38);
             btnCancelarCo.TabIndex = 57;

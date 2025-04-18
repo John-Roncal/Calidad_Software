@@ -49,6 +49,18 @@ namespace CapaLogica
             return usuarioLogueado;
         }
 
+        public int ObtenerRolIDPorNombre(string nombreUsuario)
+        {
+            try
+            {
+                return datUsuario.Instancia.ObtenerRolIDPorNombre(nombreUsuario);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
         #endregion metodos
 
     }

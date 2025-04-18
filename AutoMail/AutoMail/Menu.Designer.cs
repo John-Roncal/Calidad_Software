@@ -36,7 +36,7 @@
             btnRes = new Button();
             btnCli = new Button();
             btnCat = new Button();
-            button1 = new Button();
+            btnPro = new Button();
             panPanta.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
@@ -47,26 +47,29 @@
             panLogo.BackgroundImage = (Image)resources.GetObject("panLogo.BackgroundImage");
             panLogo.BackgroundImageLayout = ImageLayout.Stretch;
             panLogo.Location = new Point(0, -1);
+            panLogo.Margin = new Padding(3, 2, 3, 2);
             panLogo.Name = "panLogo";
-            panLogo.Size = new Size(263, 189);
+            panLogo.Size = new Size(230, 142);
             panLogo.TabIndex = 0;
             // 
             // panPanta
             // 
             panPanta.BackColor = Color.FromArgb(224, 224, 224);
             panPanta.Controls.Add(pictureBox1);
-            panPanta.Location = new Point(262, -1);
+            panPanta.Location = new Point(229, -1);
+            panPanta.Margin = new Padding(3, 2, 3, 2);
             panPanta.Name = "panPanta";
-            panPanta.Size = new Size(1365, 839);
+            panPanta.Size = new Size(1194, 629);
             panPanta.TabIndex = 1;
             panPanta.Paint += panPanta_Paint;
             // 
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(3, 3);
+            pictureBox1.Location = new Point(3, 2);
+            pictureBox1.Margin = new Padding(3, 2, 3, 2);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(1375, 839);
+            pictureBox1.Size = new Size(1203, 629);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
@@ -81,11 +84,11 @@
             btnCorreo.ForeColor = Color.Black;
             btnCorreo.Image = (Image)resources.GetObject("btnCorreo.Image");
             btnCorreo.ImageAlign = ContentAlignment.MiddleLeft;
-            btnCorreo.Location = new Point(0, 205);
-            btnCorreo.Margin = new Padding(4);
+            btnCorreo.Location = new Point(0, 154);
+            btnCorreo.Margin = new Padding(4, 3, 4, 3);
             btnCorreo.Name = "btnCorreo";
-            btnCorreo.Padding = new Padding(16, 0, 0, 0);
-            btnCorreo.Size = new Size(255, 88);
+            btnCorreo.Padding = new Padding(14, 0, 0, 0);
+            btnCorreo.Size = new Size(223, 66);
             btnCorreo.TabIndex = 1;
             btnCorreo.Text = "     ENVIAR CORREO";
             btnCorreo.TextImageRelation = TextImageRelation.ImageBeforeText;
@@ -102,11 +105,11 @@
             btnRes.ForeColor = Color.Black;
             btnRes.Image = Properties.Resources.burbuja_de_chat;
             btnRes.ImageAlign = ContentAlignment.MiddleLeft;
-            btnRes.Location = new Point(0, 291);
-            btnRes.Margin = new Padding(4);
+            btnRes.Location = new Point(0, 218);
+            btnRes.Margin = new Padding(4, 3, 4, 3);
             btnRes.Name = "btnRes";
-            btnRes.Padding = new Padding(16, 0, 0, 0);
-            btnRes.Size = new Size(255, 88);
+            btnRes.Padding = new Padding(14, 0, 0, 0);
+            btnRes.Size = new Size(223, 66);
             btnRes.TabIndex = 1;
             btnRes.Text = "     RESPUESTAS";
             btnRes.TextImageRelation = TextImageRelation.ImageBeforeText;
@@ -123,11 +126,11 @@
             btnCli.ForeColor = Color.Black;
             btnCli.Image = Properties.Resources.nueva_cuenta__1_;
             btnCli.ImageAlign = ContentAlignment.MiddleLeft;
-            btnCli.Location = new Point(0, 420);
-            btnCli.Margin = new Padding(4);
+            btnCli.Location = new Point(0, 315);
+            btnCli.Margin = new Padding(4, 3, 4, 3);
             btnCli.Name = "btnCli";
-            btnCli.Padding = new Padding(16, 0, 0, 0);
-            btnCli.Size = new Size(255, 88);
+            btnCli.Padding = new Padding(14, 0, 0, 0);
+            btnCli.Size = new Size(223, 66);
             btnCli.TabIndex = 3;
             btnCli.Text = "      CLIENTES";
             btnCli.TextImageRelation = TextImageRelation.ImageBeforeText;
@@ -144,51 +147,52 @@
             btnCat.ForeColor = Color.Black;
             btnCat.Image = Properties.Resources.lineas_de_opciones__1_;
             btnCat.ImageAlign = ContentAlignment.MiddleLeft;
-            btnCat.Location = new Point(0, 516);
-            btnCat.Margin = new Padding(4);
+            btnCat.Location = new Point(0, 387);
+            btnCat.Margin = new Padding(4, 3, 4, 3);
             btnCat.Name = "btnCat";
-            btnCat.Padding = new Padding(16, 0, 0, 0);
-            btnCat.Size = new Size(255, 88);
+            btnCat.Padding = new Padding(14, 0, 0, 0);
+            btnCat.Size = new Size(223, 66);
             btnCat.TabIndex = 4;
             btnCat.Text = "      CATEGORIAS";
             btnCat.TextImageRelation = TextImageRelation.ImageBeforeText;
             btnCat.UseVisualStyleBackColor = false;
             btnCat.Click += btnCat_Click;
             // 
-            // button1
+            // btnPro
             // 
-            button1.BackColor = Color.White;
-            button1.Cursor = Cursors.Hand;
-            button1.FlatAppearance.BorderSize = 0;
-            button1.FlatStyle = FlatStyle.Flat;
-            button1.Font = new Font("Impact", 13.2000008F);
-            button1.ForeColor = Color.Black;
-            button1.Image = Properties.Resources.provincia__1_;
-            button1.ImageAlign = ContentAlignment.MiddleLeft;
-            button1.Location = new Point(0, 612);
-            button1.Margin = new Padding(4);
-            button1.Name = "button1";
-            button1.Padding = new Padding(16, 0, 0, 0);
-            button1.Size = new Size(255, 88);
-            button1.TabIndex = 5;
-            button1.Text = "       PROVINCIAS";
-            button1.TextImageRelation = TextImageRelation.ImageBeforeText;
-            button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
+            btnPro.BackColor = Color.White;
+            btnPro.Cursor = Cursors.Hand;
+            btnPro.FlatAppearance.BorderSize = 0;
+            btnPro.FlatStyle = FlatStyle.Flat;
+            btnPro.Font = new Font("Impact", 13.2000008F);
+            btnPro.ForeColor = Color.Black;
+            btnPro.Image = Properties.Resources.provincia__1_;
+            btnPro.ImageAlign = ContentAlignment.MiddleLeft;
+            btnPro.Location = new Point(0, 459);
+            btnPro.Margin = new Padding(4, 3, 4, 3);
+            btnPro.Name = "btnPro";
+            btnPro.Padding = new Padding(14, 0, 0, 0);
+            btnPro.Size = new Size(223, 66);
+            btnPro.TabIndex = 5;
+            btnPro.Text = "       PROVINCIAS";
+            btnPro.TextImageRelation = TextImageRelation.ImageBeforeText;
+            btnPro.UseVisualStyleBackColor = false;
+            btnPro.Click += button1_Click;
             // 
             // Menu
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(1633, 840);
+            ClientSize = new Size(1429, 630);
             Controls.Add(btnCorreo);
-            Controls.Add(button1);
+            Controls.Add(btnPro);
             Controls.Add(btnCat);
             Controls.Add(btnCli);
             Controls.Add(btnRes);
             Controls.Add(panPanta);
             Controls.Add(panLogo);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "Menu";
             Text = "GastroMadrid";
             panPanta.ResumeLayout(false);
@@ -204,7 +208,7 @@
         private Button btnRes;
         private Button btnCli;
         private Button btnCat;
-        private Button button1;
+        private Button btnPro;
         private PictureBox pictureBox1;
     }
 }
