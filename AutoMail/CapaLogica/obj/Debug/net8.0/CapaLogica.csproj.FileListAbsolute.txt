@@ -141,3 +141,21 @@ C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\Capa
 C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\refint\CapaLogica.dll
 C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.pdb
 C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\ref\CapaLogica.dll
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.deps.json
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.dll
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.pdb
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfoInputs.cache
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfo.cs
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.sourcelink.json
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.Up2Date
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.dll
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\refint\CapaLogica.dll
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.pdb
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\ref\CapaLogica.dll

@@ -93,3 +93,15 @@ C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\Cap
 C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\refint\CapaEntidad.dll
 C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.pdb
 C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\ref\CapaEntidad.dll
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\bin\Debug\net8.0\CapaEntidad.deps.json
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.sourcelink.json
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.dll
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\refint\CapaEntidad.dll
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\CapaEntidad.pdb
+C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaEntidad\obj\Debug\net8.0\ref\CapaEntidad.dll

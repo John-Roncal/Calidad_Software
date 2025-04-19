@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\AORUS\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\AORUS\\.nuget\\packages"
+      "C:\\Users\\Vale\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vale\\.nuget\\packages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,

@@ -59,7 +59,7 @@ namespace AutoMail
 
         private void btnRes_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Yo soy Axl Rose");
+            
         }
 
         private void panPanta_Paint(object sender, PaintEventArgs e)
