@@ -123,3 +123,21 @@ C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoM
 C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\refint\CapaLogica.dll
 C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.pdb
 C:\Users\AORUS\Documents\UPN\CICLO 8\CALIDAD\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\ref\CapaLogica.dll
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.deps.json
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.dll
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.pdb
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfoInputs.cache
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfo.cs
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.sourcelink.json
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.Up2Date
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.dll
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\refint\CapaLogica.dll
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.pdb
+C:\Users\GRLL\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\ref\CapaLogica.dll

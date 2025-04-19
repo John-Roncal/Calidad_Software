@@ -82,10 +82,10 @@ namespace CapaDatos
                 {
                     usuario = new entUsuario();
                     usuario.UsuarioID = Convert.ToInt32(dr["UsuarioID"]);
-                    usuario.RolID = Convert.ToInt32(dr["RolID"]);  // Corregido de TipoUsuarioID a RolID
+                    usuario.RolID = Convert.ToInt32(dr["RolID"]);
                     usuario.Usuario = dr["Usuario"].ToString();
-                    usuario.Clave = (byte[])dr["Clave"];  // La clave es un byte[] ahora
-                    usuario.EstadoUsuario = Convert.ToBoolean(dr["EstadoUsuario"]);  // Corregido de estUsuario a EstadoUsuario
+                    usuario.Clave = (byte[])dr["Clave"];
+                    usuario.EstadoUsuario = Convert.ToBoolean(dr["EstadoUsuario"]);
                 }
             }
             catch (Exception e)

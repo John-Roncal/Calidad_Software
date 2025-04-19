@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoMail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ece8c357d9f60f7bab09c8bc950745c57edbb5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35f9c888602553a0323fd45c7b1f6a38269fc0a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoMail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoMail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
