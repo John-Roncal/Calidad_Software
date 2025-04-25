@@ -118,7 +118,7 @@
             dataGridViewCellStyle2.BackColor = Color.White;
             dataGridViewCellStyle2.Font = new Font("Microsoft Sans Serif", 8.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             dataGridViewCellStyle2.ForeColor = Color.Black;
-            dataGridViewCellStyle2.SelectionBackColor = Color.FromArgb(192, 0, 0);
+            dataGridViewCellStyle2.SelectionBackColor = Color.Red;
             dataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText;
             dataGridViewCellStyle2.WrapMode = DataGridViewTriState.False;
             dgvCategoria.DefaultCellStyle = dataGridViewCellStyle2;
@@ -130,7 +130,7 @@
             dataGridViewCellStyle3.BackColor = Color.FromArgb(64, 64, 64);
             dataGridViewCellStyle3.Font = new Font("Microsoft Sans Serif", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
             dataGridViewCellStyle3.ForeColor = Color.White;
-            dataGridViewCellStyle3.SelectionBackColor = Color.DarkSlateGray;
+            dataGridViewCellStyle3.SelectionBackColor = Color.DarkRed;
             dataGridViewCellStyle3.SelectionForeColor = SystemColors.HighlightText;
             dataGridViewCellStyle3.WrapMode = DataGridViewTriState.True;
             dgvCategoria.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;

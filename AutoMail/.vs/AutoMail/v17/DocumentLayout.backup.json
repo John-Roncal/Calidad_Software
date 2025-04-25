@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\",
+  "WorkspaceRootPath": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\automail\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\vale\\documents\\upn\\c8\\calidad software\\proyecto git\\calidad_software\\automail\\automail\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\automail\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\vale\\documents\\upn\\c8\\calidad software\\proyecto git\\calidad_software\\automail\\automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\vale\\documents\\upn\\c8\\calidad software\\proyecto git\\calidad_software\\automail\\automail\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\vale\\documents\\upn\\c8\\calidad software\\proyecto git\\calidad_software\\automail\\automail\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\vale\\documents\\upn\\c8\\calidad software\\proyecto git\\calidad_software\\automail\\automail\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\automail\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|c:\\users\\vale\\documents\\upn\\c8\\calidad software\\proyecto git\\calidad_software\\automail\\capadatos\\datusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\automail\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\grll\\desktop\\calidad_software\\automail\\automail\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\automail\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\grll\\desktop\\calidad_software\\automail\\automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|c:\\users\\grll\\desktop\\calidad_software\\automail\\capadatos\\datusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0D45353-6B27-4ED5-93C2-6EF52153722D}|CapaLogica\\CapaLogica.csproj|c:\\users\\vale\\documents\\upn\\c8\\calidad software\\proyecto git\\calidad_software\\automail\\capalogica\\logusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0D45353-6B27-4ED5-93C2-6EF52153722D}|CapaLogica\\CapaLogica.csproj|c:\\users\\grll\\desktop\\calidad_software\\automail\\capalogica\\logusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0D45353-6B27-4ED5-93C2-6EF52153722D}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\vale\\documents\\upn\\c8\\calidad software\\proyecto git\\calidad_software\\automail\\automail\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\grll\\desktop\\calidad_software\\automail\\automail\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,27 +50,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Provincia.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\Provincia.cs",
-              "RelativeDocumentMoniker": "AutoMail\\Provincia.cs",
-              "ToolTip": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\Provincia.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AutoMail\\Provincia.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T14:37:56.802Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Cliente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Cliente.cs",
               "RelativeDocumentMoniker": "AutoMail\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\Cliente.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Cliente.cs [Dise\u00F1o]",
               "RelativeToolTip": "AutoMail\\Cliente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T14:37:17.242Z",
@@ -78,11 +74,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Categoria.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Categoria.cs",
               "RelativeDocumentMoniker": "AutoMail\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\Categoria.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Categoria.cs [Dise\u00F1o]",
               "RelativeToolTip": "AutoMail\\Categoria.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T14:34:02.785Z",
@@ -90,11 +86,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Menu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs",
+              "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs",
               "RelativeDocumentMoniker": "AutoMail\\Menu.cs",
-              "ToolTip": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs [Dise\u00F1o]",
               "RelativeToolTip": "AutoMail\\Menu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T22:44:58.587Z",
@@ -102,37 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "datUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaDatos\\datUsuario.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\datUsuario.cs",
-              "ToolTip": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaDatos\\datUsuario.cs",
-              "RelativeToolTip": "CapaDatos\\datUsuario.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAFcAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T22:36:36.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs",
-              "RelativeDocumentMoniker": "AutoMail\\Menu.cs",
-              "ToolTip": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs",
-              "RelativeToolTip": "AutoMail\\Menu.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAhwD0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T22:45:01.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs",
               "RelativeDocumentMoniker": "AutoMail\\Login.cs",
-              "ToolTip": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs [Dise\u00F1o]",
               "RelativeToolTip": "AutoMail\\Login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T17:23:05.912Z",
@@ -140,11 +110,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EnviarCorreo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\EnviarCorreo.cs",
+              "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\EnviarCorreo.cs",
               "RelativeDocumentMoniker": "AutoMail\\EnviarCorreo.cs",
-              "ToolTip": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\EnviarCorreo.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\EnviarCorreo.cs [Dise\u00F1o]",
               "RelativeToolTip": "AutoMail\\EnviarCorreo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T14:37:48.355Z",
@@ -152,24 +122,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Provincia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Provincia.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Provincia.cs",
+              "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Provincia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AutoMail\\Provincia.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:37:56.802Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Menu.cs",
+              "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs",
+              "RelativeToolTip": "AutoMail\\Menu.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAhwD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:45:01.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "datUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\CapaDatos\\datUsuario.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\datUsuario.cs",
+              "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\CapaDatos\\datUsuario.cs",
+              "RelativeToolTip": "CapaDatos\\datUsuario.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAFcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:36:36.588Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs",
               "RelativeDocumentMoniker": "AutoMail\\Login.cs",
-              "ToolTip": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs",
+              "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs",
               "RelativeToolTip": "AutoMail\\Login.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T17:27:06.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T17:27:06.745Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "logUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaLogica\\logUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\CapaLogica\\logUsuario.cs",
               "RelativeDocumentMoniker": "CapaLogica\\logUsuario.cs",
-              "ToolTip": "C:\\Users\\Vale\\Documents\\UPN\\C8\\CALIDAD SOFTWARE\\PROYECTO GIT\\Calidad_Software\\AutoMail\\CapaLogica\\logUsuario.cs",
+              "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\CapaLogica\\logUsuario.cs",
               "RelativeToolTip": "CapaLogica\\logUsuario.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAgwDcAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
