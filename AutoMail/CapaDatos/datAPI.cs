@@ -30,33 +30,6 @@ namespace CapaDatos
         #endregion singleton
 
         #region metodos
-        public Boolean InsertarProvincia(entContacto con)
-        {
-            SqlCommand cmd = null;
-            Boolean inserta = false;
-            try
-            {
-                SqlConnection cn = Conexion.Instancia.Conectar();
-                cmd = new SqlCommand("spInsetarProvincia", cn);
-                cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.AddWithValue("@ClienteId", con.Cliente.Id);
-                cmd.Parameters.AddWithValue("@Propuesta", con.Propuesta);
-                cmd.Parameters.AddWithValue("@Comentarios", con.Comentarios);
-                cn.Open();
-                int i = cmd.ExecuteNonQuery();
-                if (i > 0)
-                {
-                    inserta = true;
-                }
-            }
-            catch (Exception e)
-            {
-                throw e;
-            }
-            finally { cmd.Connection.Close(); }
-            return inserta;
-        }
-
         private const string ApiUrl = "http://localhost:8000"; // URL de la API
 
         public async Task<string> GenerarContenidoAsync(string prompt)
