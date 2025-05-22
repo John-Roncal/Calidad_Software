@@ -4,7 +4,7 @@ USE NorRevistaBD
 GO
 
 -- Tabla para categorías
-CREATE TABLE Categorias (
+CREATE TABLE Categoria (
     Id INT PRIMARY KEY IDENTITY(1,1),
     Nombre NVARCHAR(50) NOT NULL UNIQUE,
 	Estado BIT DEFAULT 1
@@ -12,7 +12,7 @@ CREATE TABLE Categorias (
 GO
 
 -- Tabla para provincias
-CREATE TABLE Provincias (
+CREATE TABLE Provincia (
     Codigo CHAR(3) PRIMARY KEY,  -- Usamos código de provincia
     Nombre NVARCHAR(50) NOT NULL UNIQUE,
 	Estado BIT DEFAULT 1
@@ -20,14 +20,14 @@ CREATE TABLE Provincias (
 GO
 
 -- Tabla principal de clientes
-CREATE TABLE Clientes (
+CREATE TABLE Cliente (
     Id INT PRIMARY KEY IDENTITY(1,1),
-    Nombre NVARCHAR(255) NOT NULL,
-    Mail NVARCHAR(255) NOT NULL UNIQUE,
-    Web NVARCHAR(500) NULL,
+    Nombre NVARCHAR(60) NOT NULL,
+    Mail NVARCHAR(50) NOT NULL UNIQUE,
+    Web NVARCHAR(40) NULL,
 	Condicion NVARCHAR(20) DEFAULT 'Nuevo',
-    ProvinciaId CHAR(3) NOT NULL FOREIGN KEY REFERENCES Provincias(Codigo),
-    CategoriaId INT NOT NULL FOREIGN KEY REFERENCES Categorias(Id),
+    ProvinciaId CHAR(3) NOT NULL FOREIGN KEY REFERENCES Provincia(Codigo),
+    CategoriaId INT NOT NULL FOREIGN KEY REFERENCES Categoria(Id),
     Estado BIT DEFAULT 1,
     FechaCreacion DATETIME DEFAULT GETDATE()
 )
@@ -54,7 +54,7 @@ CREATE TABLE [Usuario]
 (
     [UsuarioID] INT NOT NULL IDENTITY (1, 1),
     [RolID] INT NOT NULL,
-    [Usuario] NVARCHAR(100) NOT NULL,
+    [Usuario] NVARCHAR(50) NOT NULL,
     [Clave] VARBINARY(64) NOT NULL,  -- Contraseña encriptada con SHA-256
     [EstadoUsuario] BIT NOT NULL,
     CONSTRAINT PK_Usuario PRIMARY KEY (UsuarioID),
@@ -74,7 +74,7 @@ END
 GO
 
 CREATE OR ALTER PROCEDURE spObtenerUsuarioPorNombre
-    @Nombre nvarchar(100)
+    @Nombre nvarchar(50)
 AS
 BEGIN
     SET NOCOUNT ON;
@@ -129,13 +129,10 @@ BEGIN
 END
 GO
 
-
-
-
 -- Tabla para seguimiento de contactos (registra toda interacción)
-CREATE TABLE ContactosClientes (
+CREATE TABLE ContactoCliente (
     Id INT PRIMARY KEY IDENTITY(1,1),
-    ClienteId INT NOT NULL FOREIGN KEY REFERENCES Clientes(Id),
+    ClienteId INT NOT NULL FOREIGN KEY REFERENCES Cliente(Id),
     FechaContacto DATETIME DEFAULT GETDATE(),
     Propuesta NVARCHAR(MAX) NULL,
     Respondido BIT DEFAULT 0,  -- 0 = No respondió, 1 = Respondió
@@ -147,9 +144,9 @@ CREATE TABLE ContactosClientes (
 GO
 
 -- Índices para mejorar rendimiento
-CREATE INDEX IX_Clientes_Email ON Clientes(Mail)
+CREATE INDEX IX_Clientes_Email ON Cliente(Mail)
 GO
-CREATE INDEX IX_Contactos_Cliente ON ContactosClientes(ClienteId)
+CREATE INDEX IX_Contactos_Cliente ON ContactoCliente(ClienteId)
 GO
 
 --		STORED PROCEDURE		--
@@ -162,7 +159,7 @@ CREATE PROCEDURE spInsetarCategoria
 AS
 BEGIN
     BEGIN TRY
-        INSERT INTO Categorias (Nombre)
+        INSERT INTO Categoria (Nombre)
         VALUES (@Nombre)
         
         SET @NuevoId = SCOPE_IDENTITY()
@@ -177,7 +174,7 @@ GO
 CREATE PROCEDURE spListarCategoria
 AS
 BEGIN
-    SELECT * FROM Categorias WHERE Estado = 1 ORDER BY Nombre
+    SELECT * FROM Categoria WHERE Estado = 1 ORDER BY Nombre
 END
 GO
 --UPDATE
@@ -187,7 +184,7 @@ CREATE PROCEDURE spActualizarCategoria
 AS
 BEGIN
     BEGIN TRY
-        UPDATE Categorias SET
+        UPDATE Categoria SET
             Nombre = @Nombre
         WHERE Id = @Id
         
@@ -206,7 +203,7 @@ CREATE PROCEDURE spDeshabilitarCategoria
     @Id INT
 AS
 BEGIN
-    UPDATE Categorias SET Estado = 0 WHERE Id = @Id
+    UPDATE Categoria SET Estado = 0 WHERE Id = @Id
     SELECT 1 AS Resultado, 'Categoria marcada como inactiva' AS Mensaje
 END
 GO
@@ -215,7 +212,7 @@ CREATE PROCEDURE spExisteNombreCategoria
     @Nombre NVARCHAR(50)
 AS
 BEGIN
-    SELECT * FROM Categorias WHERE Nombre = @Nombre AND Estado = 1
+    SELECT * FROM Categoria WHERE Nombre = @Nombre AND Estado = 1
 END
 GO
 -- Pronvincia
@@ -226,7 +223,7 @@ CREATE OR ALTER PROCEDURE spInsetarProvincia
 AS
 BEGIN
     BEGIN TRY
-        INSERT INTO Provincias (Codigo, Nombre)
+        INSERT INTO Provincia (Codigo, Nombre)
         VALUES (@Id, @Nombre)
         
         SELECT 1 AS Resultado, 'Provincia creada exitosamente' AS Mensaje
@@ -240,7 +237,7 @@ GO
 CREATE PROCEDURE spListarProvincia
 AS
 BEGIN
-    SELECT * FROM Provincias WHERE Estado = 1 ORDER BY Nombre
+    SELECT * FROM Provincia WHERE Estado = 1 ORDER BY Nombre
 END
 GO
 --UPDATE
@@ -250,7 +247,7 @@ CREATE PROCEDURE spActualizarProvincia
 AS
 BEGIN
     BEGIN TRY
-        UPDATE Provincias SET
+        UPDATE Provincia SET
             Nombre = @Nombre
         WHERE Codigo = @Id
         
@@ -269,7 +266,7 @@ CREATE PROCEDURE spDeshabilitarProvincia
     @Id CHAR(3)
 AS
 BEGIN
-    UPDATE Provincias SET Estado = 0 WHERE Codigo = @Id
+    UPDATE Provincia SET Estado = 0 WHERE Codigo = @Id
     SELECT 1 AS Resultado, 'Provincia marcada como inactiva' AS Mensaje
 END
 GO
@@ -277,16 +274,16 @@ GO
 -- Cliente
 --CREATE
 CREATE PROCEDURE spInsetarCliente
-    @Nombre NVARCHAR(255),
-    @Mail NVARCHAR(255),
-    @Web NVARCHAR(500) = NULL,
+    @Nombre NVARCHAR(60),
+    @Mail NVARCHAR(50),
+    @Web NVARCHAR(40) = NULL,
     @ProvinciaId CHAR(3),
     @CategoriaId INT,
     @NuevoId INT OUTPUT
 AS
 BEGIN
     BEGIN TRY
-        INSERT INTO Clientes (Nombre, Mail, Web, ProvinciaId, CategoriaId)
+        INSERT INTO Cliente (Nombre, Mail, Web, ProvinciaId, CategoriaId)
         VALUES (@Nombre, @Mail, @Web, @ProvinciaId, @CategoriaId)
         
         SET @NuevoId = SCOPE_IDENTITY()
@@ -312,9 +309,9 @@ BEGIN
         pr.Nombre AS ProvinciaNombre,
         cl.Estado,
         cl.FechaCreacion
-    FROM Clientes cl 
-    INNER JOIN Categorias ca ON cl.CategoriaId = ca.Id 
-    INNER JOIN Provincias pr ON cl.ProvinciaId = pr.Codigo 
+    FROM Cliente cl 
+    INNER JOIN Categoria ca ON cl.CategoriaId = ca.Id 
+    INNER JOIN Provincia pr ON cl.ProvinciaId = pr.Codigo 
     WHERE cl.Estado = 1
     ORDER BY cl.Nombre
 END
@@ -329,7 +326,7 @@ CREATE PROCEDURE spActualizarCliente
 AS
 BEGIN
     BEGIN TRY
-        UPDATE Clientes SET
+        UPDATE Cliente SET
             Nombre = @Nombre,
             Web = @Web,
             ProvinciaId = @ProvinciaId,
@@ -351,7 +348,7 @@ CREATE PROCEDURE spDeshabilitarCliente
     @Id INT
 AS
 BEGIN
-    UPDATE Clientes SET Estado = 0 WHERE Id = @Id
+    UPDATE Cliente SET Estado = 0 WHERE Id = @Id
     SELECT 1 AS Resultado, 'Cliente marcado como inactivo' AS Mensaje
 END
 GO
@@ -360,7 +357,7 @@ CREATE PROCEDURE spBuscarCliente
 	@Nombre NVARCHAR(50)
 AS
 BEGIN
-	SELECT Id FROM Clientes WHERE Nombre = @Nombre
+	SELECT Id FROM Cliente WHERE Nombre = @Nombre
 END
 GO
 
@@ -373,7 +370,7 @@ CREATE PROCEDURE spInsetarContacto
 AS
 BEGIN
     BEGIN TRY
-        INSERT INTO ContactosClientes(ClienteId, Propuesta, Comentarios)
+        INSERT INTO ContactoCliente(ClienteId, Propuesta, Comentarios)
         VALUES (@ClienteId, @Propuesta, @Comentarios)
 
         SELECT 1 AS Resultado, 'Contacto registrado exitosamente' AS Mensaje
@@ -391,7 +388,7 @@ CREATE PROCEDURE usp_AddContacto
 AS
 BEGIN
     BEGIN TRY
-        INSERT INTO ContactosClientes (ClienteId, Propuesta)
+        INSERT INTO ContactoCliente (ClienteId, Propuesta)
         VALUES (@ClienteId, @Propuesta)
         
         SELECT 1 AS Resultado, 'Contacto registrado exitosamente' AS Mensaje
@@ -409,7 +406,7 @@ CREATE PROCEDURE usp_ResponderContacto
 AS
 BEGIN
     BEGIN TRY
-        UPDATE ContactosClientes SET
+        UPDATE ContactoCliente SET
             Respondido = @Respondido,
             FechaRespuesta = GETDATE(),
             Comentarios = @Comentarios
@@ -429,7 +426,7 @@ CREATE PROCEDURE usp_ProgramarRecordatorio
 AS
 BEGIN
     BEGIN TRY
-        UPDATE ContactosClientes SET
+        UPDATE ContactoCliente SET
             RequiereRecordatorio = 1,
             FechaRecordatorio = DATEADD(DAY, @DiasRecordatorio, GETDATE())
         WHERE Id = @ContactoId
@@ -452,7 +449,7 @@ BEGIN
         c.Nombre,
         c.Mail,
         MAX(cc.FechaContacto) AS UltimoContacto
-    FROM Clientes c
+    FROM Cliente c
     JOIN ContactosClientes cc ON c.Id = cc.ClienteId
     WHERE cc.Respondido = 0
     AND cc.FechaContacto < DATEADD(DAY, -@DiasDesdeContacto, GETDATE())
@@ -470,8 +467,8 @@ BEGIN
         c.Mail,
         cc.FechaRecordatorio,
         DATEDIFF(DAY, GETDATE(), cc.FechaRecordatorio) AS DiasRestantes
-    FROM ContactosClientes cc
-    JOIN Clientes c ON cc.ClienteId = c.Id
+    FROM ContactoCliente cc
+    JOIN Cliente c ON cc.ClienteId = c.Id
     WHERE cc.RequiereRecordatorio = 1
     AND cc.Respondido = 0
     AND cc.FechaRecordatorio BETWEEN GETDATE() AND DATEADD(DAY, @DiasProximos, GETDATE())
@@ -479,7 +476,7 @@ END
 GO
 
 -- Procedimiento de búsqueda avanzada
-CREATE PROCEDURE usp_SearchClientes
+CREATE PROCEDURE usp_SearchCliente
     @SearchTerm NVARCHAR(255) = NULL,
     @CategoriaId INT = NULL,
     @ProvinciaId CHAR(3) = NULL,
@@ -493,9 +490,9 @@ BEGIN
         c.Web,
         p.Nombre AS Provincia,
         cat.Nombre AS Categoria
-    FROM Clientes c
-    JOIN Provincias p ON c.ProvinciaId = p.Codigo
-    JOIN Categorias cat ON c.CategoriaId = cat.Id
+    FROM Cliente c
+    JOIN Provincia p ON c.ProvinciaId = p.Codigo
+    JOIN Categoria cat ON c.CategoriaId = cat.Id
     WHERE 
         (@SearchTerm IS NULL OR 
          c.Nombre LIKE '%' + @SearchTerm + '%' OR
@@ -509,10 +506,10 @@ GO
 
 CREATE or alter PROCEDURE [dbo].[spCargarCategoria]
 as
-select Id, Nombre from Categorias where Estado = 1
+select Id, Nombre from Categoria where Estado = 1
 GO
 
 CREATE or alter PROCEDURE [dbo].[spCargarProvincia]
 as
-select Codigo,Nombre from Provincias where Estado = 1
+select Codigo,Nombre from Provincia where Estado = 1
 GO

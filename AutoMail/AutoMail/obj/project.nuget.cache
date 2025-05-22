@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iNqH+CfUFUQ=",
+  "dgSpecHash": "TFzAAheGgyg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\AutoMail.csproj",
+  "projectFilePath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\AutoMail\\AutoMail.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GRLL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\GRLL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

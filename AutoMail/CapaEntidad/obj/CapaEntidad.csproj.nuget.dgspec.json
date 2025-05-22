@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {}
+    "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {
+    "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj",
+        "projectUniqueName": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj",
         "projectName": "CapaEntidad",
-        "projectPath": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj",
+        "projectPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj",
         "packagesPath": "C:\\Users\\GRLL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\CapaEntidad\\obj\\",
+        "outputPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaEntidad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

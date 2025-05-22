@@ -35,7 +35,7 @@ namespace AutoMail
 
                 if (string.IsNullOrEmpty(nombreCategoria))
                 {
-                    MessageBox.Show("El nombre de la categoría no puede estar vacío.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("El nombre de la categoría no puede estar vacío.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Stop);
                     //return;
                 }
 
@@ -56,7 +56,7 @@ namespace AutoMail
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error.." + ex.Message);
+                MessageBox.Show("Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             LimpiarVariables();
             grbDatCat.Enabled = false;
@@ -87,7 +87,7 @@ namespace AutoMail
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error.." + ex);
+                MessageBox.Show("Error: " + ex, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             LimpiarVariables();
             grbDatCat.Enabled = false;
@@ -112,7 +112,7 @@ namespace AutoMail
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error.." + ex);
+                MessageBox.Show("Error: " + ex, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             LimpiarVariables();
             grbDatCat.Enabled = false;
