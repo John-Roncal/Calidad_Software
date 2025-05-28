@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\AutoMail\\AutoMail.csproj": {}
   },
   "projects": {
@@ -12,12 +13,25 @@
         "projectPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\AutoMail\\AutoMail.csproj",
         "packagesPath": "C:\\Users\\GRLL\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\AutoMail\\obj\\",
+=======
+    "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\AutoMail.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\AutoMail.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\AutoMail.csproj",
+        "projectName": "AutoMail",
+        "projectPath": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\AutoMail.csproj",
+        "packagesPath": "C:\\Users\\John Roncal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\obj\\",
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GRLL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\John Roncal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +40,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaLogica\\CapaLogica.csproj": {
                 "projectPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaLogica\\CapaLogica.csproj"
+=======
+              "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaLogica\\CapaLogica.csproj": {
+                "projectPath": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaLogica\\CapaLogica.csproj"
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
               }
             }
           }
@@ -48,7 +68,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -78,10 +98,11 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaDatos\\CapaDatos.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -90,12 +111,22 @@
         "projectPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaDatos\\CapaDatos.csproj",
         "packagesPath": "C:\\Users\\GRLL\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaDatos\\obj\\",
+=======
+    "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaDatos\\CapaDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaDatos\\CapaDatos.csproj",
+        "projectName": "CapaDatos",
+        "projectPath": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaDatos\\CapaDatos.csproj",
+        "packagesPath": "C:\\Users\\John Roncal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaDatos\\obj\\",
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GRLL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\John Roncal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -104,14 +135,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {
                 "projectPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj"
+=======
+              "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj"
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
               }
             }
           }
@@ -126,7 +163,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -157,10 +194,11 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -169,12 +207,22 @@
         "projectPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj",
         "packagesPath": "C:\\Users\\GRLL\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaEntidad\\obj\\",
+=======
+    "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj",
+        "projectName": "CapaEntidad",
+        "projectPath": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj",
+        "packagesPath": "C:\\Users\\John Roncal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaEntidad\\obj\\",
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GRLL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\John Roncal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -183,6 +231,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -201,7 +250,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -222,10 +271,11 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaLogica\\CapaLogica.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -234,12 +284,22 @@
         "projectPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaLogica\\CapaLogica.csproj",
         "packagesPath": "C:\\Users\\GRLL\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaLogica\\obj\\",
+=======
+    "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaLogica\\CapaLogica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaLogica\\CapaLogica.csproj",
+        "projectName": "CapaLogica",
+        "projectPath": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaLogica\\CapaLogica.csproj",
+        "packagesPath": "C:\\Users\\John Roncal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaLogica\\obj\\",
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GRLL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\John Roncal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -248,17 +308,26 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaDatos\\CapaDatos.csproj": {
                 "projectPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaDatos\\CapaDatos.csproj"
               },
               "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {
                 "projectPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj"
+=======
+              "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaDatos\\CapaDatos.csproj": {
+                "projectPath": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaDatos\\CapaDatos.csproj"
+              },
+              "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaEntidad\\CapaEntidad.csproj"
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
               }
             }
           }
@@ -273,7 +342,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -294,7 +363,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

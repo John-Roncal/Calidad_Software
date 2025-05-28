@@ -8,7 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CapaDatos
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\GRLL\Desktop\Otras cosas\Calidad_Software\AutoMail\CapaDatos\
+=======
+build_property.ProjectDir = C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaDatos\
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0

@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\",
   "Documents": [
     {
@@ -73,6 +74,53 @@
     {
       "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\grll\\desktop\\otras cosas\\calidad_software\\automail\\automail\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\automail\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\john roncal\\desktop\\calidad_software\\automail\\automail\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D45353-6B27-4ED5-93C2-6EF52153722D}|CapaLogica\\CapaLogica.csproj|c:\\users\\john roncal\\desktop\\calidad_software\\automail\\capalogica\\logusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D45353-6B27-4ED5-93C2-6EF52153722D}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\automail\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|c:\\users\\john roncal\\desktop\\calidad_software\\automail\\capadatos\\datusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|c:\\users\\john roncal\\desktop\\calidad_software\\automail\\capadatos\\datapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0B12C-18C5-4C85-9B1E-70F79F025835}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\automail\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\automail\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\automail\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|c:\\users\\john roncal\\desktop\\calidad_software\\automail\\automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F58B291-090E-48F8-B20F-249D5A7751CD}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +130,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
+=======
+          "SelectedChildIndex": 6,
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,10 +142,19 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "entCliente.cs",
               "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaEntidad\\entCliente.cs",
@@ -177,10 +238,21 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T14:37:17.242Z",
               "EditorCaption": " [Dise\u00F1o]"
+=======
+              "DocumentIndex": 8,
+              "Title": "Categoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Categoria.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Categoria.cs",
+              "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Categoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Categoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:34:02.785Z"
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "Categoria.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\AutoMail\\Categoria.cs",
               "RelativeDocumentMoniker": "AutoMail\\Categoria.cs",
@@ -223,49 +295,92 @@
               "RelativeDocumentMoniker": "AutoMail\\Menu.cs",
               "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\..\\..\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs [Dise\u00F1o]",
+=======
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Menu.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AutoMail\\Menu.cs [Dise\u00F1o]",
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T22:44:58.587Z"
+              "WhenOpened": "2025-04-18T22:44:58.587Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 13,
               "Title": "Login.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs",
               "RelativeDocumentMoniker": "AutoMail\\Login.cs",
               "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\..\\..\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs [Dise\u00F1o]",
+=======
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Login.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AutoMail\\Login.cs [Dise\u00F1o]",
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T17:23:05.912Z"
+              "WhenOpened": "2025-04-18T17:23:05.912Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+<<<<<<< HEAD
               "Title": "EnviarCorreo.cs [Design]",
               "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\AutoMail\\EnviarCorreo.cs",
               "RelativeDocumentMoniker": "AutoMail\\EnviarCorreo.cs",
               "ToolTip": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\AutoMail\\EnviarCorreo.cs [Design]",
               "RelativeToolTip": "AutoMail\\EnviarCorreo.cs [Design]",
+=======
+              "Title": "EnviarCorreo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\EnviarCorreo.cs",
+              "RelativeDocumentMoniker": "AutoMail\\EnviarCorreo.cs",
+              "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\EnviarCorreo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\EnviarCorreo.cs [Dise\u00F1o]",
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T14:37:48.355Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 11,
               "Title": "Provincia.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\AutoMail\\Provincia.cs",
               "RelativeDocumentMoniker": "AutoMail\\Provincia.cs",
               "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Provincia.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\..\\..\\Calidad_Software\\AutoMail\\AutoMail\\Provincia.cs [Dise\u00F1o]",
+=======
+              "DocumentIndex": 7,
+              "Title": "Provincia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Provincia.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Provincia.cs",
+              "ToolTip": "C:\\Users\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Provincia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\GRLL\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Provincia.cs [Dise\u00F1o]",
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T14:37:56.802Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 14,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs",
               "RelativeDocumentMoniker": "AutoMail\\Menu.cs",
               "ToolTip": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs",
+=======
+              "DocumentIndex": 10,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Menu.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Menu.cs",
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
               "RelativeToolTip": "AutoMail\\Menu.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAhwD0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -273,39 +388,91 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 15,
               "Title": "datUsuario.cs",
               "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaDatos\\datUsuario.cs",
               "RelativeDocumentMoniker": "CapaDatos\\datUsuario.cs",
               "ToolTip": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaDatos\\datUsuario.cs",
+=======
+              "DocumentIndex": 5,
+              "Title": "datUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaDatos\\datUsuario.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\datUsuario.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaDatos\\datUsuario.cs",
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
               "RelativeToolTip": "CapaDatos\\datUsuario.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAFcAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T22:36:36.588Z"
+              "WhenOpened": "2025-04-18T22:36:36.588Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 17,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs",
               "RelativeDocumentMoniker": "AutoMail\\Login.cs",
               "ToolTip": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs",
+=======
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Login.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Login.cs",
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
               "RelativeToolTip": "AutoMail\\Login.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAQAAAA",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwEsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T17:27:06.745Z"
+              "WhenOpened": "2025-04-18T17:27:06.745Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 16,
               "Title": "logUsuario.cs",
               "DocumentMoniker": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaLogica\\logUsuario.cs",
               "RelativeDocumentMoniker": "CapaLogica\\logUsuario.cs",
               "ToolTip": "C:\\Users\\GRLL\\Desktop\\Otras cosas\\Calidad_Software\\AutoMail\\CapaLogica\\logUsuario.cs",
+=======
+              "DocumentIndex": 3,
+              "Title": "logUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaLogica\\logUsuario.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\logUsuario.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaLogica\\logUsuario.cs",
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
               "RelativeToolTip": "CapaLogica\\logUsuario.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAgwDcAAABBAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T22:35:27.955Z"
+              "WhenOpened": "2025-04-18T22:35:27.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Cliente.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Cliente.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\AutoMail\\Cliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AutoMail\\Cliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:37:17.242Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "datAPI.cs",
+              "DocumentMoniker": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaDatos\\datAPI.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\datAPI.cs",
+              "ToolTip": "C:\\Users\\John Roncal\\Desktop\\Calidad_Software\\AutoMail\\CapaDatos\\datAPI.cs",
+              "RelativeToolTip": "CapaDatos\\datAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:24:02.997Z",
+              "EditorCaption": ""
             }
           ]
         }

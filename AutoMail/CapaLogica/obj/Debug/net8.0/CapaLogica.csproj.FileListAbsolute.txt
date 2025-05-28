@@ -159,6 +159,7 @@ C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\Au
 C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\refint\CapaLogica.dll
 C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.pdb
 C:\Users\Vale\Documents\UPN\C8\CALIDAD SOFTWARE\PROYECTO GIT\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\ref\CapaLogica.dll
+<<<<<<< HEAD
 C:\Users\GRLL\Desktop\Otras cosas\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.deps.json
 C:\Users\GRLL\Desktop\Otras cosas\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.dll
 C:\Users\GRLL\Desktop\Otras cosas\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.pdb
@@ -177,3 +178,23 @@ C:\Users\GRLL\Desktop\Otras cosas\Calidad_Software\AutoMail\CapaLogica\obj\Debug
 C:\Users\GRLL\Desktop\Otras cosas\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\refint\CapaLogica.dll
 C:\Users\GRLL\Desktop\Otras cosas\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.pdb
 C:\Users\GRLL\Desktop\Otras cosas\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\ref\CapaLogica.dll
+=======
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.deps.json
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.dll
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaLogica.pdb
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfoInputs.cache
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.AssemblyInfo.cs
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.sourcelink.json
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.Up2Date
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.dll
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\refint\CapaLogica.dll
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\CapaLogica.pdb
+C:\Users\John Roncal\Desktop\Calidad_Software\AutoMail\CapaLogica\obj\Debug\net8.0\ref\CapaLogica.dll
+>>>>>>> 140d4f666b4cfbb6fe2b21c257bf9131a8615be4
